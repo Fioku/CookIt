@@ -1,5 +1,5 @@
 import { useState } from "react"
-import { getRecipeFromMistral } from "./ai"
+import { getRecipeFromMistral } from "../ai"
 import ReadyForRecipe from "./ReadyForRecipe"
 import SuggestedRecipe from "./SuggestedRecipe"
 
