@@ -14,12 +14,6 @@ CookIt is a web application that generates recipes based on the ingredients you 
 
 ---
 
-## Screenshots
-
-*(Add screenshots here if available)*
-
----
-
 ## Installation
 
 1. **Clone the repository**
